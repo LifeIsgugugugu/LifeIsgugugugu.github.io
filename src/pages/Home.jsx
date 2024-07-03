@@ -6,7 +6,7 @@ function Home () {
   const navigate = useNavigate();
   // 使用navigate函数进行跳转
   function handleNavigation() {
-    navigate('/User');
+    // navigate('/User');
   }
   return (
     <>
