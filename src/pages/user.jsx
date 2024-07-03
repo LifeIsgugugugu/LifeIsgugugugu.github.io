@@ -4,7 +4,7 @@ function App() {
 
   return (
     <>
-      <div style={{color: '#fff', fontSize: '30px'}}>
+      <div style={{ fontSize: '30px'}}>
         user
         </div>
     </>

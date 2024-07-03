@@ -1,10 +1,11 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+node.js: 20.0.0
+参考：
+https://blog.csdn.net/Everglowwwwww/article/details/138193772
+https://blog.csdn.net/weixin_52017993/article/details/133784617
 
-Currently, two official plugins are available:
+CNAME 文件，自定义域名需要，应该是要放在dist里一起传
+文件里面添加需要绑定的域名，注意没有www和https前缀。如： niceboybao.com
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-nodeJs: 20.0.0
+https://juejin.cn/post/6844903558106578957?searchId=2024070316230220B86D7F24B11318E105
